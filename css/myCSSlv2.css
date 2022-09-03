@@ -1,0 +1,126 @@
+﻿#head {
+    border: none;
+}
+
+    #head:hover {
+        border: 1px solid #dedddd;
+        background-color: #dedddd;
+        padding: 0px 0px 0px 0px;
+        text-decoration: none;
+    }
+
+#anh1 img {
+    width: 75px;
+    height: 25px;
+}
+.idol {
+    margin: 19px 0 0 358px;
+}
+
+.idol2 {
+    box-shadow: 0 0 5px grey;
+    margin: 0 0 0 0;
+    padding: 18px 0 0 11px;
+}
+.idol5 {
+    margin: 4px 0px 23px 309px;
+}
+.idol6{
+    width: 100%;
+    margin-top: 50px;
+}
+
+#find {
+    border: 1px solid black;
+    padding: 6px 0 6px 0;
+    margin: -3px 0px 17px 0px;
+}
+
+input[type=text] {
+    border: none;
+    outline: none;
+}
+
+.font {
+    font-size: 50px;
+}
+
+.font1 {
+    font-size: 15px;
+}
+.nut1 {
+    margin: -3px 0px 15px 376px;
+    padding: 7px 0px 7px 14px;
+    background-color: #f4f4f6;
+    color: black;
+    border-radius: 4px;
+}
+
+.nut2 {
+    margin: -3px 0px 15px 14px;
+    padding: 7px 0px 7px 24px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+
+.nut3 {
+    margin: 0px 0px 0px 529px;
+    padding: 10px 20px;
+    background-color: #7d2ae7;
+    color: white;
+    border-radius: 4px;
+}
+
+.chinhsua18 {
+    margin: 45px 20px 147px 20px;
+}
+.chinhsua3 {
+    list-style: none;
+}
+.chinhsua9 {
+    margin: -107px 69px 0 69px;
+}
+
+.class1 {
+    Margin: 0 auto;
+    text-align: left;
+}
+
+.anh1 {
+    max-height: 85%;
+    max-width: 85%;
+}
+.chinhduoi {
+    margin: 23px 0 120px 84px;
+    padding: 0 0 0 0;
+}
+
+.class2 {
+    background-color: #fff;
+    color: #4040b8;
+    margin: 44px 15px 0 113px;
+}
+
+.class3 {
+    background-color: #fff;
+    color: #4cc3e0;
+    margin: 0 15px 0 0;
+}
+
+.class4 {
+    background-color: #fff;
+    color: #b52626;
+    margin: 0 15px 0 0;
+}
+
+.class5 {
+    background-color: #fff;
+    color: #e08c38;
+}
+
+.class6 {
+    font-size: 23px;
+    margin: 0px 0px 0 47px;
+    padding: 0px 0px 0px 81px;
+}
